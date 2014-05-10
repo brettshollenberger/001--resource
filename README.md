@@ -1,7 +1,7 @@
 001--resource
 =============
 
-#setup
+###setup
 
 ```bash
 npm install && bundle install
